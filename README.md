@@ -5,7 +5,7 @@ This repository includes instructional files along with sample data for Dr. Gotz
 
 It includes a notebook with instructions on how to upload, analyze, and pick out data from the sample data set in Jupyter Lab.
 
-## Where Did they Come From?
+## Where Did it Come From?
 These materials have been adapted from a notebook that I wrote for Dr. Gotzlers class, and a sample data that he provided us with as well.
 
 ## How Can this Data be Used?
