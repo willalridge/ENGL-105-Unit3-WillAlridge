@@ -1,4 +1,4 @@
-# ENGL-105-Unit3-WillAlridge
+# Excessive Drinking compared to Premature Deaths across US Counties
 
 ## What's Included?
 This repository includes instructional files along with sample data for Dr. Gotzler's Fall 2022 ENGL-105 class at the University of North Carolina, Chapel HIll.
